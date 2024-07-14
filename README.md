@@ -1,2 +1,4 @@
-# Diabetes_Data_Cleaning_Viz
-This Diabetes data analysis python project is written in Jupyter Notebook. It shows how to clean raw data to transform into insightful data and visualize the trend across different 'CLASS', 'Gender', and 'Age Group'
+# Diabetes Dataset Cleaning Project
+
+This project involves cleaning a Diabetes dataset to handle missing values, misspelled words, outliers, and duplicate values. The cleaned data can now be used for drawing trends and insights.
+
