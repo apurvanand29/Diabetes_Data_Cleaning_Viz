@@ -19,3 +19,11 @@ The cleaning process includes the following steps:
 7. **Handling Duplicate Values**: Identify and remove duplicate rows to avoid redundant data.
 8. **Saving Cleaned Data**: Save the cleaned dataset to a new CSV file for further analysis.
 
+## Results
+
+The cleaned dataset is saved as `Cleaned_Diabetes_Data.csv`. This dataset is now free from missing values, misspelled words, outliers, and duplicates, making it suitable for further analysis to draw trends and insights about Diabetes.
+
+## Usage
+
+To use this cleaned dataset, load the `Cleaned_Diabetes_Data.csv` file into your data analysis or visualization tool of choice. The dataset is ready for any statistical analysis, machine learning modeling, or visualization to uncover insights related to Diabetes.
+
